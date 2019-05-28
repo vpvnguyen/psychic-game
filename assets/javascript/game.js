@@ -4,7 +4,7 @@ var losses = 0;
 var guessLeft = 9;
 var guessLetter = [];
 
-// when user presses a key
+// when user presses a key, run function
 document.onkeyup = function (a) {
     var userGuess = a.key;
 
