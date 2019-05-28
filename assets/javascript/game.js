@@ -1,4 +1,4 @@
-var correctLetter = ["v"];
+var correctLetter = ["a"];
 var wins = 0;
 var losses = 0;
 var guessLeft = 9;
